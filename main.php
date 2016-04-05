@@ -14,7 +14,12 @@
             <!-- The difference between Get and Post is Post
           processes information and sends it to a web page.
         Get only displays a web page. -->
-    This is the best day.
-
+        Today is the greatest
+        Day I've ever known
+        Can't live for tomorrow,
+        Tomorrow's much too long
+        I'll burn my eyes out
+        Before I get out 
+   </p>
   </body>
 </html>
